@@ -1,0 +1,20 @@
+0 person
+1 phone
+2 mouse
+3 pen
+4 notebook
+5 tv
+6 bottle
+7 backpack
+8 watch
+9 cup
+10 laptop
+11 spoon
+12 fork
+13 scissors
+14 marker
+15 chair
+16 glasses
+17 shoes
+18 wallet
+19 Dr Ahmed S Salama
